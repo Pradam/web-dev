@@ -1,0 +1,424 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"q",
+				"qualities"
+			],
+			[
+				"num",
+				"number"
+			],
+			[
+				"g",
+				"global"
+			],
+			[
+				"P",
+				"Printf"
+			],
+			[
+				"De",
+				"declaration"
+			],
+			[
+				"strig",
+				"strings"
+			],
+			[
+				"s",
+				"square_list"
+			],
+			[
+				"fun",
+				"func main\tfunc main {...} ʂ"
+			],
+			[
+				"im",
+				"import\timport (...) ʂ"
+			],
+			[
+				"Print",
+				"Println\tn int, err error ƒ"
+			],
+			[
+				"Pri",
+				"Print\tn int, err error ƒ"
+			],
+			[
+				"print",
+				"Print\tn int, err error ƒ"
+			],
+			[
+				"fordata",
+				"formData"
+			],
+			[
+				"arit",
+				"article_name\tstatement"
+			],
+			[
+				"Art",
+				"Article\tclass"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"se",
+				"select\tTag"
+			],
+			[
+				"loa",
+				"loadDoc〔function〕"
+			],
+			[
+				"onc",
+				"onclick\tAttr"
+			],
+			[
+				"des",
+				"description\tstatement"
+			],
+			[
+				"Cate",
+				"Category\tclass"
+			],
+			[
+				"A",
+				"Article\tclass"
+			],
+			[
+				"crea",
+				"create_cate\tstatement"
+			],
+			[
+				"sta",
+				"staticmethod\tclass"
+			],
+			[
+				"cla",
+				"classmethod\tclass"
+			],
+			[
+				"cre",
+				"create_cate\tstatement"
+			],
+			[
+				"C",
+				"CategoryCreate\tclass"
+			],
+			[
+				"Ca",
+				"CategorySerializer\tclass"
+			],
+			[
+				"ser",
+				"serializer_class"
+			],
+			[
+				"model",
+				"models\tstatement"
+			],
+			[
+				"Artic",
+				"ArticleSerializer\tclass"
+			],
+			[
+				"re",
+				"register"
+			],
+			[
+				"mo",
+				"models\timport"
+			],
+			[
+				"Im",
+				"ImageField"
+			],
+			[
+				"aut",
+				"auto_now_add"
+			],
+			[
+				"max",
+				"max_length"
+			],
+			[
+				"squa",
+				"square_num\tstatement"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 190.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Build With: Python - Syntax Check"
+			],
+			[
+				"pac",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"ins",
+				"Preferences: Settings"
+			],
+			[
+				"insta",
+				"Build With: Python - Syntax Check"
+			],
+			[
+				"Snippet: ",
+				"Snippet: elif"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 522.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/administrator/Desktop/web-dev/ruckusapis"
+	],
+	"file_history":
+	[
+		"/home/administrator/Desktop/go-learning/practise/structs.go",
+		"/home/administrator/Desktop/go-learning/practise/terminal.glue",
+		"/home/administrator/Desktop/go-learning/practise/if-else.go",
+		"/home/administrator/Desktop/go-learning/learning/tour_of_go/21-if-with-statement.go",
+		"/home/administrator/Desktop/go-learning/practise/loops.go",
+		"/home/administrator/Desktop/go-learning/learning/tour_of_go/16-loops.go",
+		"/home/administrator/Desktop/go-learning/learning/tour_of_go/17-for.go",
+		"/home/administrator/exercism/go/gigasecond/cases_test.go",
+		"/home/administrator/exercism/go/gigasecond/gigasecond_test.go",
+		"/home/administrator/exercism/go/gigasecond/gigasecond.go",
+		"/home/administrator/.config/sublime-text-3/Packages/User/Glue.sublime-settings",
+		"/home/administrator/Desktop/go-learning/learning/tour_of_go/13-types-basic.go",
+		"/home/administrator/Desktop/go-learning/learning/tour_of_go/15-constants-numeric.go",
+		"/home/administrator/Desktop/go-learning/learning/tour_of_go/11-variables-initialization.go",
+		"/home/administrator/Desktop/go-learning/practise/variables.go",
+		"/home/administrator/Desktop/go-learning/ruckus_go.go",
+		"/home/administrator/Desktop/go-learning/practise/functions.go",
+		"/home/administrator/Downloads/OOP_duck_Problem.py",
+		"/home/administrator/Desktop/go-learning/multiple-results.go",
+		"/home/administrator/Desktop/go-learning/hello.go",
+		"/home/administrator/Desktop/go-learning/defer.go",
+		"/home/pradam/Desktop/go/src/hello/go-learning/slice.go",
+		"/home/pradam/Desktop/go/src/hello/go-learning/array.go",
+		"/home/pradam/Desktop/go/src/hello/go-learning/structs2.go",
+		"/home/pradam/Desktop/go/src/hello/go-learning/structs.go",
+		"/home/pradam/Desktop/go/src/hello/go-learning/pointers.go",
+		"/home/pradam/Desktop/go/src/hello/go-learning/july_16.go",
+		"/home/pradam/Desktop/go/src/hello/get_input.go",
+		"/home/pradam/Desktop/go/src/hello/hours.go",
+		"/home/pradam/Desktop/go/src/hello/defer.go",
+		"/home/pradam/Desktop/go/src/hello/hello.go",
+		"/home/pradam/Desktop/go/src/hello/variable.go",
+		"/home/pradam/Desktop/go/src/hello/swap.go",
+		"/home/pradam/.config/sublime-text-3/Packages/GoSublime/CHANGELOG.md",
+		"/home/pradam/.config/sublime-text-3/Packages/GoSublime/USAGE.md",
+		"/home/pradam/Desktop/dj-1.10/trydjango10/test_fire.py",
+		"/home/pradam/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
+		"/home/pradam/Desktop/react-hello-world/webpack.config.js",
+		"/home/pradam/Desktop/dj-1.10/trydjango10/templates/angularjs.html",
+		"/home/pradam/Desktop/dj-1.10/trydjango10/templates/category_name.html",
+		"/home/pradam/Desktop/dj-1.10/trydjango10/templates/category_details.html",
+		"/home/pradam/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+		"/home/pradam/Desktop/py3.6/progress_bar.py",
+		"/home/pradam/rest_file.sh",
+		"/home/pradam/rest_mm.sh",
+		"/home/pradam/rest_run.sh",
+		"/home/pradam/rest_shell.sh",
+		"/home/pradam/Desktop/dj-1.10/trydjango10/trydjango10/settings.py",
+		"/home/pradam/Desktop/dj-1.10/trydjango10/rest/serializers.py",
+		"/home/pradam/Desktop/dj-1.10/trydjango10/trydjango10/urls.py",
+		"/home/pradam/Desktop/dj-1.10/trydjango10/rest/admin.py",
+		"/home/pradam/Desktop/dj-1.10/trydjango10/rest/apps.py",
+		"/home/pradam/Desktop/dj-1.10/trydjango10/rest/views.py",
+		"/home/pradam/Desktop/dj-1.10/trydjango10/rest/models.py",
+		"/home/pradam/Desktop/dj-1.10/trydjango10/rest/tests.py",
+		"/home/pradam/abhi.sh",
+		"/home/pradam/restapi.sh",
+		"/home/pradam/Desktop/py3.6/order_dict.py",
+		"/home/pradam/.config/sublime-text-3/Packages/User/SublimeIPythonNotebook.sublime-settings"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.GoSublime-main-output":
+	{
+		"height": 112.0
+	},
+	"output.GoSublime-output":
+	{
+		"height": 112.0
+	},
+	"output.MarGo-output":
+	{
+		"height": 112.0
+	},
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "apis.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 271.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
